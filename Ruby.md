@@ -18,7 +18,7 @@
 4.[プログラムの実行](https://utina.yoshitokamizato.com/entry/2016/04/14/214506https://www.engineer-step.com/entry/ide-texteditor)
 
 # 無料で使えるおすすめテキストエディタ
-1.[Sublime text](https://eng-entrance.com/sublimetext-start)
+1.[サブライムテキスト](https://eng-entrance.com/sublimetext-start)
 
 [Sublime textのインストール](http://www.sublimetext.com/)
 
@@ -52,5 +52,6 @@
 
 # エラー処理
 1.[エラーが起こったら](https://qiita.com/scivola/items/3017068a354892b239f4)
+
 2.[エラーが起こったら](https://qiita.com/scivola/items/77017693de371ab49667)
 
