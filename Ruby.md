@@ -1,16 +1,21 @@
 # Rubyについて
 1.[プログラミング初心者はRubyがおすすめ](https://kitsune-programming.com/beginner-language)
+
 2.[Rubyで出来ること](https://kuguru.jp/2856)
 
 # Rubyのインストール
 1.[Ruby/Rails5の環境構築](https://qiita.com/yoshito410kam/items/2dcb5ae0b69bd2d01120)
+
 2.[インストールの方法で迷った場合](https://www.ruby-lang.org/ja/downloads/)
 
 # Ruby実践
 1.[エディタ/IDE（統合開発環境）](https://www.engineer-step.com/entry/ide-texteditor)
+
 2.[オブジェクト指向](https://codezine.jp/article/detail/10215)
+
 3.[プログラムの記述](https://www.javadrive.jp/ruby/ini/index1.html)
-4.[プログラムの実行・Hello,word!](https://utina.yoshitokamizato.com/entry/2016/04/14/214506https://www.engineer-step.com/entry/ide-texteditor)
+
+4.[プログラムの実行](https://utina.yoshitokamizato.com/entry/2016/04/14/214506https://www.engineer-step.com/entry/ide-texteditor)
 
 # 無料で使えるおすすめテキストエディタ
 1.[Sublime text](https://eng-entrance.com/sublimetext-start)
@@ -48,3 +53,4 @@
 # エラー処理
 1.[エラーが起こったら](https://qiita.com/scivola/items/3017068a354892b239f4)
 2.[エラーが起こったら](https://qiita.com/scivola/items/77017693de371ab49667)
+
