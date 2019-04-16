@@ -26,8 +26,6 @@
 
 ### CRUD処理
 
-[Ruby On RailsでCRUDを学ぶ。](https://web-nari.net/2018/07/03/ruby-on-rails-crud-1/)
-
 [最初に覚えておきたい！Ruby on RailsのCRUDの使い方【初心者向け】](https://techacademy.jp/magazine/7735)
 
 [作って学ぶRuby on Rails Vol.13 CRUDを学ぼう！その１](https://blog.codecamp.jp/rails_text_13)
