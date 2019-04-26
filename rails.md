@@ -23,3 +23,9 @@
 ### ↓こちらがおすすめ！
 
 [小学生でもわかるRuby on Rails入門](https://openbook4.me/projects/92)
+
+### CRUD処理
+
+[最初に覚えておきたい！Ruby on RailsのCRUDの使い方【初心者向け】](https://techacademy.jp/magazine/7735)
+
+[作って学ぶRuby on Rails Vol.13 CRUDを学ぼう！その１](https://blog.codecamp.jp/rails_text_13)
