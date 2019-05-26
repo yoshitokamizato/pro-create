@@ -15,7 +15,7 @@
 
 3.[プログラムの記述](https://www.javadrive.jp/ruby/ini/index1.html)
 
-4.[プログラムの実行](https://utina.yoshitokamizato.com/entry/2016/04/14/214506https://www.engineer-step.com/entry/ide-texteditor)
+4.[プログラムの実行](https://www.javadrive.jp/ruby/ini/index2.html)
 
 # 無料で使えるおすすめテキストエディタ
 1.[サブライムテキスト](https://eng-entrance.com/sublimetext-start)
